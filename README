@@ -1,1 +1,6 @@
-haxephp
+hxphp wrappers for php libraries
+
+hxphp.net.Memcache - Supports Memcache objects.  Check out the test folder in memcache for examples. 
+    You'll need the CVS version of haXe installed or haXe version greater than 2.04.
+
+If you have questions please post to the haXe list.
